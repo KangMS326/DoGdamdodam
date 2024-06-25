@@ -46,4 +46,12 @@
    3. 카테고리 클릭 시 해당 상품 화면에 출력
     
    4. 쇼핑몰 전반적인 기능을 구현했다.
+
    
+▪ 시연 연상
+
+
+https://github.com/KangMS326/DoGdamdodam/assets/85070904/cf880975-030f-41f7-97cc-2f83dffebb4e
+
+
+
